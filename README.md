@@ -1,0 +1,1 @@
+A Java-based terminal-based application developed using Object-Oriented Programming concepts to simplify and automate the university course registration process. The system allows students to register for courses, view enrolled subjects, and manage academic records, while administrators can manage courses and student information efficiently.
